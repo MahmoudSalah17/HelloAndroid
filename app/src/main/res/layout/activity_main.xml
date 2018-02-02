@@ -34,7 +34,8 @@
         android:text="@string/site"
         android:textSize="16sp"
         android:padding="8dp"
-        android:layout_marginLeft="8dp"/>
+        android:layout_marginLeft="8dp"
+        android:autoLink="web"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
